@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Needit Application">607edf0e2f7b8110ac782ca62799b6b7</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 02:58:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e77ed38e2f7b8110ac782ca62799b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>607edf0e2f7b8110ac782ca62799b6b7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_e77ed38e2f7b8110ac782ca62799b63c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 02:58:27</sys_updated_on>
+        <tab display_value="Needit Application - New Tab">6b7ed38e2f7b8110ac782ca62799b639</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
